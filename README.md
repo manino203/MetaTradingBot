@@ -16,8 +16,10 @@ This is a programming project that demonstrates how to use the Python Metatrader
 
 3. Download Metatrader5 from https://www.metatrader5.com/en/download
 
-4. Create a file called auth_data.py and make three variables there login, password and server. You should get this information from your broker.
+4. Clone the repository, create a file called auth_data.py at the project root file and make three variables there login, password and server. You should get this information from your broker.
 
 5. Install requirements
+
+6. Run main.py
 
 
